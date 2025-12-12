@@ -24,3 +24,5 @@ A window should pop up and draw the result.
 02_DistanceField.py: Learn how to use fract to limit the data in range. Also try single channel image to display.
 
 03_Shape.py: How to do color based on pixel location.
+
+04_patternMove.py: Try to create pattern with fract function. Add time to move. This looks cooler and I learned some trick.
