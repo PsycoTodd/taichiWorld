@@ -26,3 +26,5 @@ A window should pop up and draw the result.
 03_Shape.py: How to do color based on pixel location.
 
 04_patternMove.py: Try to create pattern with fract function. Add time to move. This looks cooler and I learned some trick.
+
+05_dfLine.py: Take mouse input and test to use distance field to draw AA lines.
