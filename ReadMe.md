@@ -28,3 +28,5 @@ A window should pop up and draw the result.
 04_patternMove.py: Try to create pattern with fract function. Add time to move. This looks cooler and I learned some trick.
 
 05_dfLine.py: Take mouse input and test to use distance field to draw AA lines.
+
+06_imagenoise.py: An interesting practice on how to adjust UV to create noise effect. Notice the way to reduce the shift of uv by a 0.02 scale factor.
